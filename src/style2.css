@@ -2,6 +2,7 @@
 .bgimage {
     height:100vh;
     background: url('../images/natalie.jpg');
+    background-color: #000000;
     background-size: cover;
     position: relative;
 }
